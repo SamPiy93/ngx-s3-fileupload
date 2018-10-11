@@ -1,0 +1,29 @@
+{
+  "name": "ngx-s3-fileupload",
+  "version": "1.0.0",
+  "description": "aws s3 multiple file upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "AWS S3",
+    "angular 2 file upload",
+    "file upload",
+    "multiple file upload"
+  ],
+  "author": "sampiy93 <madumal.piyasundara@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "aws-sdk": "^2.251.1"
+  },
+  "devDependencies": {
+    "@types/core-js": "^2.5.0",
+    "@types/node": "^10.3.1",
+    "core-js": "^2.5.7",
+    "typescript": "^2.9.1",
+    "ts-node": "~3.2.0"
+  }
+}
